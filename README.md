@@ -1,4 +1,4 @@
-# ⌨️ TouchTypingTutor - Multilingual Typing Trainer
+# ⌨️ TouchTypingTutor - Multilingual Typing Trainer (Screenshots are below)
 
 **Master touch typing in English or Russian! Train with customizable lessons, get instant visual feedback, and track your typing speed and accuracy with detailed stats.**
 
